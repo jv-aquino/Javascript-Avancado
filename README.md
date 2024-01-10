@@ -23,3 +23,14 @@ git clone https://github.com/jv-aquino/Javascript-Avancado.git
 ```
 git pull
 ```
+
+## Conteúdos do curso:
+### - Arrays e métodos
+### - Objetos e Map
+### - Promises (await & async)
+### - Arrow Funcions
+### - Funcionalidades ES6+
+### - Singleton
+### - Factories
+### - Class
+### - e mais!
